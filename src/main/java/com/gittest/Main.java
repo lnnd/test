@@ -6,5 +6,11 @@ public class Main {
         System.out.println("master");
     }
 
+    void test() {
+
+    }
+
+
+
 
 }
