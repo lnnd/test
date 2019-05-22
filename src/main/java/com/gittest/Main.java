@@ -6,4 +6,8 @@ public class Main {
         System.out.println("master");
     }
 
+    @Override
+    public String toString() {
+        return "Main{}";
+    }
 }
